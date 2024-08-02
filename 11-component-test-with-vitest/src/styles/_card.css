@@ -1,0 +1,39 @@
+body {
+  font-family: "Pretendard", sans-serif;
+  user-select: none;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+  background: black;
+}
+
+.card-list {
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+
+  height: 25.3125rem;
+  gap: 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+
+  width: 15rem;
+  height: 21.5625rem;
+  gap: 1rem;
+}
+
+.card-img {
+  border-radius: 0.25rem;
+}
+
+.card-name {
+  color: #c4c4c4;
+  font-size: 1.333rem;
+  text-align: center;
+}
