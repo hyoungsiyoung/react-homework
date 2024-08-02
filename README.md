@@ -12,6 +12,6 @@
 
 [과제3] 컴포넌트 속성 검사 [과제3 바로가기]
 
-[과제3 바로가기]: 
+[과제3 바로가기]: https://github.com/hyoungsiyoung/react-homework/tree/main/11-component-test-with-vitest
 
 ---
