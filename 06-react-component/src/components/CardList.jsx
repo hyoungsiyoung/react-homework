@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "./Card.jsx";
-import "./../main.css";
+import "../main.css";
 
 function CardList() {
   return (
